@@ -1,0 +1,52 @@
+# Claude Code
+.adk/
+.chapters/
+.claude/
+CLAUDE.md
+**/.plan/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.json
+.env
+credentials/
+
+# Data (but allow chapter sample data)
+/data/
+!chapter-*/data/
+*.csv
+*.parquet
+*.pkl
+
+# Models
+models/
+*.bin
+*.h5
+*.ckpt
+
+# Logs
+logs/
+*.log

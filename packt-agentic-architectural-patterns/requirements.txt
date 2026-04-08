@@ -1,0 +1,16 @@
+# Use-case chapters (Ch 13–15) — align with notebook install cells
+# Setup (uv):  uv venv .venv --python 3.13 --clear  &&  uv pip install -r requirements.txt
+# Vertex: copy .env.example → .env, set GOOGLE_CLOUD_PROJECT / GOOGLE_CLOUD_LOCATION, ADC login
+python-dotenv
+google-adk
+litellm
+tenacity
+ratelimit
+crewai
+crewai-tools
+langchain-google-genai
+langgraph
+langchain-core
+# Run notebooks locally
+jupyter
+ipykernel
