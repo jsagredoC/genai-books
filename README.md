@@ -2,9 +2,11 @@
 
 Personal workspace with **one folder per book**. Each tree keeps its own `README.md`, `requirements.txt`, and license.
 
+**Repository:** [github.com/jsagredoC/genai-books](https://github.com/jsagredoC/genai-books)
+
 | Folder | Book | Upstream (reference) |
 |--------|------|----------------------|
-| `packt-agentic-architectural-patterns/` | *Agentic Architectural Patterns for Building Multi-Agent Systems* (Packt) | [Packt / your fork](https://github.com/jsagredoC/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems) |
+| `packt-agentic-architectural-patterns/` | *Agentic Architectural Patterns for Building Multi-Agent Systems* (Packt) | [jsagredoC/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems](https://github.com/jsagredoC/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems) |
 | `oreilly-genai-on-google-cloud/` | *GenAI on Google Cloud* (O’Reilly) | [ayoisio/genai-on-google-cloud](https://github.com/ayoisio/genai-on-google-cloud) |
 
 ## Setup
