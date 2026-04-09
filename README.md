@@ -6,7 +6,7 @@ Personal workspace with **one folder per book**. Each tree keeps its own `README
 
 | Folder | Book | Upstream (reference) |
 |--------|------|----------------------|
-| `packt-agentic-architectural-patterns/` | *Agentic Architectural Patterns for Building Multi-Agent Systems* (Packt) | [jsagredoC/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems](https://github.com/jsagredoC/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems) |
+| `packt-agentic-architectural-patterns/` | *Agentic Architectural Patterns for Building Multi-Agent Systems* (Packt) | [Packt book page](https://www.packtpub.com/en-us/product/agentic-architectural-patterns-for-building-multi-agent-systems-first-edition/9781806029570) |
 | `oreilly-genai-on-google-cloud/` | *GenAI on Google Cloud* (O’Reilly) | [ayoisio/genai-on-google-cloud](https://github.com/ayoisio/genai-on-google-cloud) |
 
 ## Setup
